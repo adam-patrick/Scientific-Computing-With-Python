@@ -13,35 +13,16 @@ Sample Output:
 ![AA-Sample-Output](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA-Sample-Output.PNG "AA Sample Output")
 
 
+### [Time Calculator](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Time%20Calculator)
 
-### Markdown
+Write a function named add_time that takes in two required parameters and one optional parameter:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a start time in the 12-hour clock format (ending in AM or PM)
+a duration time that indicates the number of hours and minutes
+(optional) a starting day of the week, case insensitive
+The function should add the duration time to the start time and return the result.
 
-```markdown
-Syntax highlighted code block
+If the result will be the next day, it should show (next day) after the time. If the result will be more than one day later, it should show (n days later) after the time, where "n" is the number of days later.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adam-patrick/Scientific-Computing-With-Python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Case Examples:
+![Case Examples](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/case%20example%20TC.PNG "TC Case Example")
