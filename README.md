@@ -32,3 +32,18 @@ If the result will be the next day, it should show (next day) after the time. If
 Case Examples:
 
 ![Case Examples](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/case%20example%20TC.PNG "TC Case Example")
+
+***
+
+
+### [Budget App](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Budget%20App)
+
+Complete the Category class in budget.py. It should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called ledger that is a list. It also performs a variety of other tasks and outputs, including charts. [See the full challenge here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
+
+Output samples:
+
+![Output Samples](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/budget%20output.PNG "Output Sample 1")
+![Output Samples 2](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/budget%20output%202.PNG "Output Sample 2")
+
+
+***
