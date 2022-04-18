@@ -63,3 +63,15 @@ Output Example:
 
 
 ***
+
+
+### [Probability Calculator](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Probability%20Calculator)
+
+For this project, you will write a program to determine the approximate probability of drawing certain balls randomly from a hat. [See the full challenge here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
+
+Function example:
+
+![Function Example](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/PC%20Function%20Example.PNG "Function example")
+
+
+***
