@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## Scientific Computing with Python
 
-You can use the [editor on GitHub](https://github.com/adam-patrick/Scientific-Computing-With-Python/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### [https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Arithmatic%20Arranger]Arithmatic_Arranger
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
+
+Sample Input: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA_Sample_Input.PNG "AA Sample Input"
+
+Sample Output:
+![alt text][logo]
+
+[logo]: https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA_Sample_Output.PNG "AA Sample Output"
+
+
 
 ### Markdown
 
