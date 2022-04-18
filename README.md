@@ -4,7 +4,7 @@ In the Scientific Computing with Python Certification, you'll learn Python funda
 
 Below you will find the 5 major projects required for certification, which I have completed and linked here also.
 
-### [Arithmatic_Arranger](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Arithmatic%20Arranger)
+### [Arithmatic Arranger](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Arithmatic%20Arranger)
 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed. [See the full challenge here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
@@ -51,7 +51,7 @@ Output samples:
 
 ### [Polygon Area Calculator](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Polygon%20Area%20Calculator)
 
-Use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes. More rules and methods apply. [See the full challenge here}(https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
+Use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes. More rules and methods apply. [See the full challenge here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
 
 Usage Example:
 
