@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Scientific Computing with Python
 
-You can use the [editor on GitHub](https://github.com/adam-patrick/Python-Learning/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This section of my github is a repository for my initial learning of the Python programming language, using [https://www.freecodecamp.org/learn/scientific-computing-with-python/]freeCodeCamp's Scientific Computing with Python course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you will find information of my final projects for certification, with will display the dynamic range of use I exhibited in my knowledge obtained, as well as my ability to learn and implement new ideas as needed to achieve my goals.
 
-### Markdown
+### Arithmatic Arranger
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side, do they are easier to solve.
 
 ```markdown
 Syntax highlighted code block
