@@ -7,7 +7,7 @@ In the Scientific Computing with Python Certification, you'll learn Python funda
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
 Sample Input: 
-![AA-Sample-Input](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA-Sample-Input.PNG "AA Sample Input")
+<img src=https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA-Sample-Input.PNG" alt="AA Sample Input">
 
 Sample Output:
 ![AA-Sample-Output](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA-Sample-Output.PNG "AA Sample Output")
