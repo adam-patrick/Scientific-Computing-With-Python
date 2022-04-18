@@ -2,6 +2,8 @@
 
 In the Scientific Computing with Python Certification, you'll learn Python fundamentals like variables, loops, conditionals, and functions. Then you'll quickly ramp up to complex data structures, networking, relational databases, and data visualization. [See the course here](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
+Below you will find the 5 major projects required for certification, which I have completed and linked here also.
+
 ### [Arithmatic_Arranger](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Arithmatic%20Arranger)
 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
