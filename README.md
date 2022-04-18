@@ -47,3 +47,19 @@ Output samples:
 
 
 ***
+
+
+### [Polygon Area Calculator](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Polygon%20Area%20Calculator)
+
+Use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes. More rules and methods apply. [See the full challenge here}(https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
+
+Usage Example:
+
+![Usage Sample](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/PAC%20usage%20Sample.PNG "Usage Example")
+
+Output Example:
+
+![Output Example](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/PAC%20Output%20Sample.PNG "Output Example")
+
+
+***
