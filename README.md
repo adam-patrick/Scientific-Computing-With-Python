@@ -6,7 +6,7 @@ Below you will find the 5 major projects required for certification, which I hav
 
 ### [Arithmatic_Arranger](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/PY4E/Arithmatic%20Arranger)
 
-Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
+Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed. [See the full challenge here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
 Sample Input: 
 ![AA-Sample-Input](https://github.com/adam-patrick/Scientific-Computing-With-Python/blob/images/AA-Sample-Input.PNG "AA Sample Input")
@@ -27,7 +27,7 @@ a duration time that indicates the number of hours and minutes
 (optional) a starting day of the week, case insensitive
 The function should add the duration time to the start time and return the result.
 
-If the result will be the next day, it should show (next day) after the time. If the result will be more than one day later, it should show (n days later) after the time, where "n" is the number of days later.
+If the result will be the next day, it should show (next day) after the time. If the result will be more than one day later, it should show (n days later) after the time, where "n" is the number of days later. [See the full challenge here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 
 Case Examples:
 
